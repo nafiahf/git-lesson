@@ -1,0 +1,4 @@
+* Create my first repository (done)
+* Add a file to the repo (done)
+* hands on exercise
+* pull from a remote source
